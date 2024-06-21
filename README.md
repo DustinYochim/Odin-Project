@@ -77,9 +77,9 @@ These assignments were tackled with a growth mindset and I did not reference the
 
 - [ ] **Foundations** 
 
-  - [ ] Introduction
-  - [ ] Prerequisites
-  - [ ] Git Basics
+  - [X] Introduction
+  - [X] Prerequisites
+  - [X] Git Basics
   - [ ] HTML Foundations
   - [ ] CSS Foundations
   - [ ] Flexbox
