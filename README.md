@@ -63,7 +63,7 @@ These assignments were tackled with a growth mindset and I did not reference the
 | **#4 Etch-A-Sketch**       |                                                                 |                                                              |
 | **#3 Rock Paper Scissors** |                                                                 |                                                              |
 | **#2 Landing Page**        |                                                                 |                                                              |
-| **#1 Recipes**             | https://dustinyochim.github.io/odin-recipes/                    | https://github.com/DustinYochim/odin-recipes                                                  |
+| **#1 Recipes**             | [Live Demo](https://dustinyochim.github.io/odin-recipes/)       | [GitHub](https://github.com/DustinYochim/odin-recipes)       |
 
 ## Notes
 
