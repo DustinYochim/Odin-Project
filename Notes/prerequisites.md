@@ -54,4 +54,38 @@ The command line is an interface to enter commands that the computer will run fo
 * `git log` shows the history of previous commits.
 * The basic syntax of a git command is `program|action|destination|`
 ### Best Practices
+
+#### Atomic Commits
 * An **atomic commit** is a commit that includes changes related to only **one** feature or task.
+
+#### Conventional Commits
+
+The Conventional Commits specification is a simple convention for commit messages that creates a clear commit history, aiding automation and aligning with Semantic Versioning. Here's the structure and guidelines:
+
+**Commit Message Structure:**
+
+```
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+**Types and Their Purposes:**
+- **fix:** Patches a bug (correlates with PATCH in SemVer).
+- **feat:** Introduces a new feature (correlates with MINOR in SemVer).
+- **BREAKING CHANGE:** Indicates a major API change. Can be a footer or appended with `!` after type/scope (correlates with MAJOR in SemVer).
+
+**Other Allowed Types:**
+- `build:`
+- `chore:`
+- `ci:`
+- `docs:`
+- `style:`
+- `refactor:`
+- `perf:`
+- `test:`
+
+**Footers:**
+- Footers can include information such as issue references, breaking changes, and other contextual details that help in the development and release process.

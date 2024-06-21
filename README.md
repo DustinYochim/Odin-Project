@@ -62,7 +62,7 @@ These assignments were tackled with a growth mindset and I did not reference the
 | **#5 Calculator**          |                                                                 |                                                              |
 | **#4 Etch-A-Sketch**       |                                                                 |                                                              |
 | **#3 Rock Paper Scissors** |                                                                 |                                                              |
-| **#2 Landing Page**        |                                                                 |                                                              |
+| **#2 Landing Page**        | [Live Demo](https://dustinyochim.github.io/odin-landing-page/)  | [GitHub](https://github.com/DustinYochim/odin-landing-page/blob/main/README.md) |
 | **#1 Recipes**             | [Live Demo](https://dustinyochim.github.io/odin-recipes/)       | [GitHub](https://github.com/DustinYochim/odin-recipes)       |
 
 ## Notes
@@ -82,8 +82,8 @@ These assignments were tackled with a growth mindset and I did not reference the
   - [X] Prerequisites
   - [X] Git Basics
   - [X] HTML Foundations
-  - [ ] CSS Foundations
-  - [ ] Flexbox
+  - [X] CSS Foundations
+  - [X] Flexbox
   - [ ] JavaScript Basics
   - [ ] The Back End
   - [ ] Conclusion
