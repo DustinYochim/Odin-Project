@@ -69,8 +69,9 @@ These assignments were tackled with a growth mindset and I did not reference the
 
 - [**HTML**](html.md)
 - [**CSS**](css.md)
-- [**JavaScript**](javascript.md)
-- [**Git**](git.md)
+- [**JavaScript**](js.md)
+- [**Prerequisites**](prerequisites.md)
+- [**Introduction**](introduction.md)
 
 ## Progress
 
