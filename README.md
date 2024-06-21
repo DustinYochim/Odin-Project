@@ -71,7 +71,7 @@ These assignments were tackled with a growth mindset and I did not reference the
 - [**CSS**](css.md)
 - [**JavaScript**](js.md)
 - [**Prerequisites**](prerequisites.md)
-_ [**Introduction**](introduction.md)
+- [**Introduction**](introduction.md)
 
 ## Progress
 
