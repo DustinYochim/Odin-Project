@@ -67,11 +67,11 @@ These assignments were tackled with a growth mindset and I did not reference the
 
 ## Notes
 
-- [**HTML**](html.md)
-- [**CSS**](css.md)
-- [**JavaScript**](js.md)
-- [**Prerequisites**](prerequisites.md)
-- [**Introduction**](introduction.md)
+- [**HTML**](notes/html.md)
+- [**CSS**](notes/css.md)
+- [**JavaScript**](notes/js.md)
+- [**Prerequisites**](notes/prerequisites.md)
+- [**Introduction**](notes/introduction.md)
 
 ## Progress
 
