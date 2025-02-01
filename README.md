@@ -10,60 +10,61 @@ These assignments were tackled with a growth mindset and I did not reference the
 
 ### NodeJS
 
-| Project                                                  | URL                                                                              | Source Code                                                       |
-| :------------------------------------------------------- | :------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
-| **#27 Inventory** (Express/MongoDB/TailwindCSS)          |                                                                                  |                                                                   |
-| **#26 Mini Message Board** (Express/MongoDB/TailwindCSS) |                                                                                  |                                                                   |
-| **#25 Basic Informational Site**                         |                                                                                  |                                                                   |
+| Project                                                  | URL           | Source Code |
+| :------------------------------------------------------- | :------------ | :---------- |
+| **#28 Inventory** (Express/MongoDB/TailwindCSS)          | [Live Demo]() | [GitHub]()  |
+| **#27 Mini Message Board** (Express/MongoDB/TailwindCSS) | [Live Demo]() | [GitHub]()  |
+| **#26 Basic Informational Site**                         | [Live Demo]() | [GitHub]()  |
 
 ### Advanced HTML & CSS
 
-| Project                                       | URL                             | Source Code                                   |
-| :-------------------------------------------- | :------------------------------ | :-------------------------------------------- |
-| **#24 Personal Portfolio** (TypeScript/React) |                                 |                                               |
+| Project                                       | URL           | Source Code |
+| :-------------------------------------------- | :------------ | :---------- |
+| **#25 Personal Portfolio** (TypeScript/React) | [Live Demo]() | [GitHub]()  |
 
 ### React
 
-| Project                                       | URL                                                        | Source Code                                                       |
-| :-------------------------------------------- | :--------------------------------------------------------- | :---------------------------------------------------------------- |
-| **#23 JavaScript Final Project** (TypeScript) |                                                            |                                                                   |
-| **#22 Where's Waldo** (TypeScript)            |                                                            |                                                                   |
-| **#21 Shopping Cart**                         |                                                            |                                                                   |
-| **#20 Memory Card**                           |                                                            |                                                                   |
-| **#19 CV Application**                        |                                                            |                                                                   |
+| Project                                       | URL           | Source Code |
+| :-------------------------------------------- | :------------ | :---------- |
+| **#24 JavaScript Final Project** (TypeScript) | [Live Demo]() | [GitHub]()  |
+| **#23 Where's Waldo** (TypeScript)            | [Live Demo]() | [GitHub]()  |
+| **#22 Shopping Cart**                         | [Live Demo]() | [GitHub]()  |
+| **#21 Memory Card**                           | [Live Demo]() | [GitHub]()  |
+| **#20 CV Application**                        | [Live Demo]() | [GitHub]()  |
 
 ### JavaScript (Vanilla)
 
-| Project                     | URL                                                         | Source Code                                                  |
-| :-------------------------- | :---------------------------------------------------------- | :----------------------------------------------------------- |
-| **#18 Battleship**          |                                                             |                                                              |
-| **#17 Testing Practice**    |                                                             |                                                              |
-| **#16 Knights Travails**    |                                                             |                                                              |
-| **#15 Binary Search Trees** |                                                             |                                                              |
-| **#14 Linked Lists**        |                                                             |                                                              |
-| **#13 Recursion**           |                                                             |                                                              |
-| **#12 Weather App**         |                                                             |                                                              |
-| **#11 Todo List**           |                                                             |                                                              |
-| **#10 Restaurant Page**     |                                                             |                                                              |
-| **#9 Tic Tac Toe**          |                                                             |                                                              |
-| **#8 Library**              |                                                             |                                                              |
+| Project                     | URL                                                               | Source Code                                                     |
+| :-------------------------- | :---------------------------------------------------------------- | :-------------------------------------------------------------- |
+| **#19 Battleship**          | [Live Demo]()                                                     | [GitHub]()                                                      |
+| **#18 Testing Practice**    | [Live Demo]()                                                     | [GitHub]()                                                      |
+| **#17 Knights Travails**    | [Live Demo]()                                                     | [GitHub](https://github.com/DustinYochim/odin-knights-travails) |
+| **#16 Binary Search Trees** | [Live Demo]()                                                     | [GitHub](https://github.com/DustinYochim/odin-bst)              |
+| **#15 HashMap**             | [Live Demo]()                                                     | [GitHub]()                                                      |
+| **#14 Linked Lists**        | [Live Demo]()                                                     | [GitHub](https://github.com/DustinYochim/odin-linked-lists)     |
+| **#13 Recursion**           | [Live Demo]()                                                     | [GitHub](https://github.com/DustinYochim/odin-recursion)        |
+| **#12 Weather App**         | [Live Demo](https://dustinyochim.github.io/odin-weather-app/)     | [GitHub](https://github.com/DustinYochim/odin-weather-app)      |
+| **#11 Todo List**           | [Live Demo](https://dustinyochim.github.io/odin-todo/)            | [GitHub](https://github.com/DustinYochim/odin-todo)             |
+| **#10 Restaurant Page**     | [Live Demo](https://dustinyochim.github.io/odin-restaurant-page/) | [GitHub](https://github.com/DustinYochim/odin-restaurant-page)  |
+| **#9 Tic Tac Toe**          | [Live Demo](https://dustinyochim.github.io/odin-tic-tac-toe/)     | [GitHub](https://github.com/DustinYochim/odin-tic-tac-toe)      |
+| **#8 Library**              | [Live Demo](https://dustinyochim.github.io/odin-library/)         | [GitHub](https://github.com/DustinYochim/odin-library)          |
 
 ### Intermediate HTML and CSS
 
-| Project                | URL                                                         | Source Code                                              |
-| :--------------------- | :---------------------------------------------------------- | :------------------------------------------------------- |
-| **#7 Admin Dashboard** |                                                             |                                                          |
-| **#6 Sign-up Form**    |                                                             |                                                          |
+| Project                | URL                                                               | Source Code                                                    |
+| :--------------------- | :---------------------------------------------------------------- | :------------------------------------------------------------- |
+| **#7 Admin Dashboard** | [Live Demo](https://dustinyochim.github.io/odin-admin-dashboard/) | [GitHub](https://github.com/DustinYochim/odin-admin-dashboard) |
+| **#6 Sign-up Form**    | [Live Demo](https://dustinyochim.github.io/odin-sign-up-form/)    | [GitHub](https://github.com/DustinYochim/odin-sign-up-form)    |
 
 ### Foundations
 
-| Project                    | URL                                                             | Source Code                                                  |
-| :------------------------- | :-------------------------------------------------------------- | :----------------------------------------------------------- |
-| **#5 Calculator**          |                                                                 |                                                              |
-| **#4 Etch-A-Sketch**       |                                                                 |                                                              |
-| **#3 Rock Paper Scissors** |                                                                 |                                                              |
+| Project                    | URL                                                             | Source Code                                                                     |
+| :------------------------- | :-------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| **#5 Calculator**          | [Live Demo](https://dustinyochim.github.io/odin-calculator/)    | [GitHub](https://github.com/DustinYochim/odin-calculator)                       |
+| **#4 Etch-A-Sketch**       | [Live Demo](https://dustinyochim.github.io/odin-etch-a-sketch/) | [GitHub](https://github.com/DustinYochim/odin-etch-a-sketch)                    |
+| **#3 Rock Paper Scissors** | [Live Demo](https://dustinyochim.github.io/odin-rps/)           | [GitHub](https://github.com/DustinYochim/odin-rps)                              |
 | **#2 Landing Page**        | [Live Demo](https://dustinyochim.github.io/odin-landing-page/)  | [GitHub](https://github.com/DustinYochim/odin-landing-page/blob/main/README.md) |
-| **#1 Recipes**             | [Live Demo](https://dustinyochim.github.io/odin-recipes/)       | [GitHub](https://github.com/DustinYochim/odin-recipes)       |
+| **#1 Recipes**             | [Live Demo](https://dustinyochim.github.io/odin-recipes/)       | [GitHub](https://github.com/DustinYochim/odin-recipes)                          |
 
 ## Notes
 
@@ -72,56 +73,70 @@ These assignments were tackled with a growth mindset and I did not reference the
 - [**JavaScript**](Notes/js.md)
 - [**Prerequisites**](Notes/prerequisites.md)
 - [**Introduction**](Notes/introduction.md)
+- [**React**](Notes/react.md)
 
 ## Progress
 
+- [x] **Foundations**
 
-- [ ] **Foundations** 
+  - [x] Introduction
+  - [x] Prerequisites
+  - [x] Git Basics
+  - [x] HTML Foundations
+  - [x] CSS Foundations
+  - [x] Flexbox
+  - [x] JavaScript Basics
+  - [x] The Back End
+  - [x] Conclusion
 
-  - [X] Introduction
-  - [X] Prerequisites
-  - [X] Git Basics
-  - [X] HTML Foundations
-  - [X] CSS Foundations
-  - [X] Flexbox
-  - [ ] JavaScript Basics
-  - [ ] The Back End
-  - [ ] Conclusion
+- [X] **Intermediate HTML & CSS**
 
-- [ ] **Intermediate HTML & CSS**
-
-  - [ ] Intermediate HTML Concepts
-  - [ ] Intermediate CSS Concepts
-  - [ ] Forms
-  - [ ] Grid
+  - [x] Intermediate HTML Concepts
+  - [x] Intermediate CSS Concepts
+  - [x] Forms
+  - [x] Grid
 
 - [ ] **JavaScript**
 
-  - [ ] Introduction
-  - [ ] Organizing your JavaScript Code
-  - [ ] JavaScript in the Real World
-  - [ ] Asynchronous JavaScript and APIs
+  - [x] Introduction
+  - [x] Organizing your JavaScript Code
+  - [x] JavaScript in the Real World
+  - [x] Asynchronous JavaScript and APIs
   - [ ] A Bit of Computer Science
   - [ ] Testing JavaScript
-  - [ ] Intermediate Git
-  - [ ] React JS
-  - [ ] JavaScript and the Backend
-  - [ ] Finishing Up with JavaScript
+  - [x] Intermediate Git
+  - [x] Finishing Up with JavaScript
 
 - [ ] **Advanced HTML & CSS**
 
-  - [ ] Animation
-  - [ ] Accessibility
+  - [x] Animation
+  - [x] Accessibility
   - [ ] Responsive Design
+
+- [ ] **React**
+
+  - [x] Introduction
+  - [x] Getting Started with React
+  - [ ] States and Effects
+  - [ ] Class Components
+  - [ ] React Testing
+  - [ ] The React Ecosystem
+  - [ ] More React Concepts
+  - [ ] Conclusion
+
+- [ ] **Databases**
+
+  - [] Databases
 
 - [ ] **NodeJS**
 
   - [ ] Introduction to NodeJS
-  - [ ] MongoDB
-  - [ ] Express & Mongoose
+  - [ ] Express
   - [ ] Authentication
+  - [ ] ORMs
   - [ ] APIs
   - [ ] Testing Express
+  - [ ] Full Stack Projects
   - [ ] FINAL PROJECT
 
 - [ ] **Getting Hired**
